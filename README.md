@@ -10,7 +10,7 @@ We are creating a caster.
 * [Fork](#Fork)
 * [Tire](#Tire)
 * [Wheel](#Wheel)
-* [Axle Collar & Bearings](#Axle-Collar-&-Bearings)
+* [Axle Collar Bearings](#Axle-Collar-Bearings)
 * [Sub Assembly](#Sub-Assembly)
 * [Final Assembly](#Final-Assembly)
 
@@ -112,7 +112,7 @@ The third assignment is to create the caster fork. This part has more steps then
 ---
 
 
-## Axle Collar & Bearings
+## Axle Collar Bearings
 
 ### Description
 
