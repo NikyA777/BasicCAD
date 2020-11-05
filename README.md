@@ -10,7 +10,9 @@ We are creating a caster.
 * [Fork](#Fork)
 * [Tire](#Tire)
 * [Wheel](#Wheel)
-* [AxleCollarBearings](#AxleCollarBearings)
+* [Axle Collar & Bearings](#Axle-Collar-&-Bearings)
+* [Sub Assembly](#Sub-Assembly)
+* [Final Assembly](#Final-Assembly)
 
 ## Base
 
@@ -47,7 +49,7 @@ The second assignment is to create the caster mount.  The caster's dimensions ar
 
 ### Evidence
 
-[The Mount in Onshape]()
+[The Mount in Onshape](https://cvilleschools.onshape.com/documents/0d70f655203ca304cb3c5b7d/w/f55603f962f6fc74f5548a68/e/41d730c570a8d75fce9f51b6)
 
 ### Image
 
@@ -62,9 +64,12 @@ The second assignment is to create the caster mount.  The caster's dimensions ar
 
 ### Description
 
+The third assignment is to create the caster fork. This part has more steps then the last two, it's less simple.The forks's first part starts with an 8mm thick, 60 mm centered-at-origin circle. On top of that circle a rectangle is drawn with the dimensions 40 mm x 5 mm, 15 mm from origin. It is extruded 75 mm, and then moderated with three fillets. The first pair of fillets are 15 mm at the edges, then 1 mm filets on the front and back of the edges, and a 4 mm fillet around the base. 
 
 
 ### Evidence
+
+[The Fork in Onshape](https://cvilleschools.onshape.com/documents/0d70f655203ca304cb3c5b7d/w/f55603f962f6fc74f5548a68/e/41d730c570a8d75fce9f51b6)
 
 ### Image
 
@@ -78,6 +83,8 @@ The second assignment is to create the caster mount.  The caster's dimensions ar
 ### Description
 
 ### Evidence
+
+[The Tire in Onshape](https://cvilleschools.onshape.com/documents/0d70f655203ca304cb3c5b7d/w/f55603f962f6fc74f5548a68/e/41d730c570a8d75fce9f51b6)
 
 ### Image
 
@@ -94,6 +101,8 @@ The second assignment is to create the caster mount.  The caster's dimensions ar
 
 ### Evidence
 
+[The Wheel in Onshape](https://cvilleschools.onshape.com/documents/0d70f655203ca304cb3c5b7d/w/f55603f962f6fc74f5548a68/e/41d730c570a8d75fce9f51b6)
+
 ### Image
 
 <img src="Images/CasterWheel&Tire.png" alt="The Wheel" width="200">
@@ -103,11 +112,13 @@ The second assignment is to create the caster mount.  The caster's dimensions ar
 ---
 
 
-## AxleCollarBearings
+## Axle Collar & Bearings
 
 ### Description
 
 ### Evidence
+
+[The Axle,Collar & Bearings in Onshape](https://cvilleschools.onshape.com/documents/0d70f655203ca304cb3c5b7d/w/f55603f962f6fc74f5548a68/e/41d730c570a8d75fce9f51b6)
 
 ### Image
 
@@ -120,3 +131,35 @@ The second assignment is to create the caster mount.  The caster's dimensions ar
 ### Reflection
 
 ---
+
+
+## Sub Assembly
+
+### Description
+
+### Evidence
+
+[The Sub Assembly in Onshape](https://cvilleschools.onshape.com/documents/0d70f655203ca304cb3c5b7d/w/f55603f962f6fc74f5548a68/e/41d730c570a8d75fce9f51b6)
+
+### Image
+
+<img src="Images/CasterSubAssembly.png" alt="The Sub Assembly" width="200">
+
+### Reflection
+
+---
+
+
+## Final Assembly
+
+### Description
+
+### Evidence
+
+[The Final Assembly in Onshape](https://cvilleschools.onshape.com/documents/0d70f655203ca304cb3c5b7d/w/f55603f962f6fc74f5548a68/e/41d730c570a8d75fce9f51b6)
+
+### Image
+
+<img src="Images/CasterFinalAssembly.png" alt="The Final Assembly" width="200">
+
+### Reflection
