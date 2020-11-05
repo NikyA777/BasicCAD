@@ -43,7 +43,11 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 
 ### Description
 
+The second assignment is to create the caster mount.  The caster's dimensions are 120 mm x 120 mm and 8 mm thick.  It has 4 holes 10 mm wide and 20 mm from the edge equally spaced along the edges. It also has a 25 mm hole in it's center.
+
 ### Evidence
+
+[The Mount in Onshape]()
 
 ### Image
 
@@ -57,6 +61,8 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ## Fork
 
 ### Description
+
+
 
 ### Evidence
 
