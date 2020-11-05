@@ -23,7 +23,7 @@ The first assignment is to create the caster base.  The base's dimensions are 20
 
 ### Image
 
-<img src="images/CasterBase.png" alt="The Base" width="200">
+<img src="Images/CasterBase.png" alt="The Base" width="200">
 
 ### Reflection
 
@@ -47,7 +47,7 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 
 ### Image
 
-<img src="images/CasterMount.png" alt="The Mount" width="200">
+<img src="Images/CasterMount.png" alt="The Mount" width="200">
 
 ### Reflection
 
@@ -75,7 +75,7 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 
 ### Image
 
-<img src="images/CasterWheel&Tire.png" alt="The Tire" width="200">
+<img src="Images/CasterWheel&Tire.png" alt="The Tire" width="200">
 
 ### Reflection
 
@@ -90,7 +90,7 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 
 ### Image
 
-<img src="images/CasterWheel&Tire.png" alt="The Wheel" width="200">
+<img src="Images/CasterWheel&Tire.png" alt="The Wheel" width="200">
 
 ### Reflection
 
@@ -105,11 +105,11 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 
 ### Image
 
-<img src="images/CasterAxleCollar.png" alt="The Axle & Collar" width="200">
+<img src="Images/CasterAxleCollar.png" alt="The Axle & Collar" width="200">
 
-<img src="images/CasterBearing.png" alt="The Bearing" width="200">
+<img src="Images/CasterBearing.png" alt="The Bearing" width="200">
 
-<img src="images/CasterBigBearing.png" alt="The Big Bearing" width="200">
+<img src="Images/CasterBigBearing.png" alt="The Big Bearing" width="200">
 
 ### Reflection
 
