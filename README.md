@@ -168,7 +168,7 @@ Finally, the last and final assignment, number 10, the Final Assembly. This is w
 
 ### Evidence
 
-[The Final Assembly in Onshape](https://cvilleschools.onshape.com/documents/0d70f655203ca304cb3c5b7d/w/f55603f962f6fc74f5548a68/e/41d730c570a8d75fce9f51b6)
+[The Final Assembly in Onshape](https://cvilleschools.onshape.com/documents/26df25339861c27af39c82f7/w/696b7892e9419995c8ae5727/e/0d2b207502a377527b096e02)
 
 ### Image
 
